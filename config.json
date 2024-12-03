@@ -1,0 +1,11 @@
+{
+    "port": 3000,
+    "host": "localhost",
+    "env": "development",
+    "staticDir": "./public",
+    "uploadDir": "./uploads",
+    "database": {
+        "type": "mongodb",
+        "url": "mongodb://localhost:27017/edumarket"
+    }
+}
